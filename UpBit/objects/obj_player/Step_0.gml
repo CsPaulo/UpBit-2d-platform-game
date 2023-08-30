@@ -18,7 +18,7 @@ if !place_meeting(x, y + 1, obj_wall){
 	sprite_index = spr_player_jumping;
 }else{
 	if up{
-	vspd = -2;
+	vspd = -2.5;
 	}	
     
 }
