@@ -1,0 +1,1 @@
+pause_timer = 0;

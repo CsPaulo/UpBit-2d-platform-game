@@ -3,8 +3,10 @@
   "resourceVersion": "1.6",
   "name": "UpBit",
   "resources": [
+    {"id":{"name":"spr_checkpoint","path":"sprites/spr_checkpoint/spr_checkpoint.yy",},"order":10,},
     {"id":{"name":"spr_player_running","path":"sprites/spr_player_running/spr_player_running.yy",},"order":1,},
     {"id":{"name":"obj_saw","path":"objects/obj_saw/obj_saw.yy",},"order":3,},
+    {"id":{"name":"spr_checkpoint_touched","path":"sprites/spr_checkpoint_touched/spr_checkpoint_touched.yy",},"order":11,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":3,},
     {"id":{"name":"spr_jumppower","path":"sprites/spr_jumppower/spr_jumppower.yy",},"order":7,},
     {"id":{"name":"obj_jumppower","path":"objects/obj_jumppower/obj_jumppower.yy",},"order":5,},
@@ -20,6 +22,7 @@
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
     {"id":{"name":"spr_hud","path":"sprites/spr_hud/spr_hud.yy",},"order":9,},
     {"id":{"name":"tileset_01","path":"tilesets/tileset_01/tileset_01.yy",},"order":0,},
+    {"id":{"name":"obj_checkpoint","path":"objects/obj_checkpoint/obj_checkpoint.yy",},"order":8,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_thorn","path":"sprites/spr_thorn/spr_thorn.yy",},"order":6,},
     {"id":{"name":"obj_coin","path":"objects/obj_coin/obj_coin.yy",},"order":6,},

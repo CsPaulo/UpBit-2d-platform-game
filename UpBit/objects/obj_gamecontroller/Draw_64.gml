@@ -12,3 +12,10 @@ draw_set_color(#cc978c);
 draw_text(30, -6, "coins: " + string(coins) + "/10");
 draw_set_font(-1);
 draw_set_color(-1);
+
+draw_set_font(ft_gui);
+draw_set_color(#cc978c);
+draw_text(250, -6, "timer: " + string(showTime));
+draw_set_font(-1);
+draw_set_color(-1);
+

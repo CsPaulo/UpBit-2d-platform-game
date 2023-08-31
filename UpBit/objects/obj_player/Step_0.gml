@@ -50,3 +50,4 @@ y += vspd;
 if (xDirection != 0) {
     image_xscale = xDirection; // Inverte o sprite horizontalmente
 }
+
