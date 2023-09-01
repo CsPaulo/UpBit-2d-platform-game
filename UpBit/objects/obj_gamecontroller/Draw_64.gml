@@ -5,7 +5,7 @@
 //var hud_y = camera_height / 2;
 
 
-draw_sprite_ext(spr_hud, 0, 675, 385, 10.6, 10, 0, c_white, 1);
+draw_sprite_ext(spr_hud, 0, 680, 385, 10.6, 10, 0, c_white, 1);
 
 draw_set_font(ft_gui);
 draw_set_color(#cc978c);
